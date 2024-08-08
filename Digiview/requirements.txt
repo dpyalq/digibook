@@ -1,0 +1,10 @@
+streamlit
+pandas
+nltk
+plotly==5.17.0
+matplotlib==3.7.1
+pandas-profiling==3.6.6
+streamlit-pandas-profiling
+stop-words==2015.2.23.1
+emoji==2.8.0
+emojis==0.7.0

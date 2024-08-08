@@ -1,0 +1,13 @@
+[browser]
+gatherUsageStats=false
+serverAddress = "localhost"
+
+[client]
+toolbarMode="minimal"
+
+[theme]
+primaryColor='#44a5e5'
+backgroundColor= '#353839'
+secondaryBackgroundColor='#525556'
+textColor = '#f9f9f9'
+font="sans serif"
